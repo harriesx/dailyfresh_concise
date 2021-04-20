@@ -48,7 +48,7 @@ pexpect==4.0.1
 Pillow==6.1.0
 psutil==3.4.2
 ptyprocess==0.5
-py==1.4.31
+py==1.10.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.18
