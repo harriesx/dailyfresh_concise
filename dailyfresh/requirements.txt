@@ -28,7 +28,7 @@ hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
 ipaddress==1.0.22
-ipython==2.4.1
+ipython==7.16.3
 itsdangerous==1.1.0
 jedi==0.9.0
 Jinja2==2.8
